@@ -1,0 +1,6 @@
+# This is a Biomefile. It helps you create an environment to run this app.
+# More info at https://github.com/1egoman/biome
+name=saymyname
+IVONA_ACCESS_KEY=
+IVONA_SECRET_KEY=
+MONGODB_URI=
